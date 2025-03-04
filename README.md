@@ -1,1 +1,1 @@
-# Warehouse-Inventory-Automation
+# Warehouse-Inventory-Automation (Research Project)
